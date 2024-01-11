@@ -1,0 +1,30 @@
+{
+    "blockbuster": {
+        "peliculas": {
+            "1": {
+                "id": "1",
+                "nombre": "a",
+                "duracion": "a",
+                "sinopsis": "a",
+                "generos": {
+                    "1": {
+                        "id": "1",
+                        "nombre": "edd"
+                    }
+                },
+                "actores": {
+                    "2": {
+                        "id": "2",
+                        "nombre": "sws"
+                    }
+                },
+                "formato": {
+                    "2": {
+                        "id": "2",
+                        "nombre": "ede"
+                    }
+                }
+            }
+        }
+    }
+}
